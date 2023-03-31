@@ -1,2 +1,1 @@
-# programs-c-
-you can learn lots of functions of c#
+<img src="https://socialify.git.ci/Lakypayiui/programs-c-/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="programs-c-" width="640" height="320" />
